@@ -1,4 +1,4 @@
-# Grænsefladebeskrivelser \n
+# Grænsefladebeskrivelser
 Der udstilles en række services hvis primære beskrivelse vil være dækket af den dokumentation der er tilgængelig på [SwaggerHub](https://app.swaggerhub.com/apis-docs/PensionsInfo.dk/PensionsInfo-Web-API-V1/v1).
 
 Bemærk at API'erne til PensionsInfo.dk er private og der skal derfor gives adgang til SwaggerHub for at se dokumentationen.
